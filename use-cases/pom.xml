@@ -9,4 +9,12 @@
     <artifactId>use-cases</artifactId>
     <name>Archetype - use-cases</name>
     <url>http://maven.apache.org</url>
+    <dependencies>
+        <dependency>
+            <groupId>com.cleanarchitecturebase</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 </project>

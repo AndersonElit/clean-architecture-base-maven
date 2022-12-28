@@ -4,5 +4,5 @@ server:
 spring:
   application:
     name: clean-architecture-base
-    component: com.cleanarchitecturebase.*
+    component: com.cleanarchitecture.*
 
