@@ -15,7 +15,6 @@
 	<name>cleanarchitecturebase</name>
 	<description>base project implementing clean architecture</description>
 	<modules>
-		<module>app</module>
         <module>core</module>
         <module>infrastructure</module>
         <module>use-cases</module>
