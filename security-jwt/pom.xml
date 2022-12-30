@@ -9,4 +9,8 @@
     <artifactId>security-jwt</artifactId>
     <name>Archetype - security-jwt</name>
     <url>http://maven.apache.org</url>
+
+    <dependencies>
+
+    </dependencies>
 </project>
