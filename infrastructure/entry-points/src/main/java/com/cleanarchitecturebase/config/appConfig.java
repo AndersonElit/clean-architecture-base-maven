@@ -1,4 +1,4 @@
-package com.cleanarchitecture.config;
+package com.cleanarchitecturebase.config;
 
 import org.springframework.context.annotation.Configuration;
 

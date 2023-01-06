@@ -1,4 +1,4 @@
-package com.cleanarchitecture.controllers;
+package com.cleanarchitecturebase.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
